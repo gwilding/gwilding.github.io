@@ -1,3 +1,3 @@
 # Under construction
 
-Check out my [gihub](https://github.com/gwilding) profile in the meantime!
+Check out my [github](https://github.com/gwilding) profile in the meantime!
