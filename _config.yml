@@ -3,3 +3,14 @@ layout: sidebar
 
 title: Georg Wilding
 description: georg.wilding[at]gmail[dot]com
+
+
+topics:
+  - name: Publications
+    web_url: https://github.com/gwilding/gwilding.github.io/blob/main/pub.md
+
+#  - name: Web design
+#
+#  - name: Sass
+#    web_url: https://github.com/topics/sass
+#    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
