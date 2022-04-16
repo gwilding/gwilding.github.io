@@ -1,6 +1,6 @@
 # Publications
 
- * Persistent homology of the cosmic web – I. Hierarchical topology in ΛCDM cosmologies
+ * **Persistent homology of the cosmic web – I. Hierarchical topology in ΛCDM cosmologies**
 
 Georg Wilding, Keimpe Nevenzeel, Rien van de Weygaert, Gert Vegter, Pratyush Pranav, Bernard J T Jones, Konstantinos Efstathiou, Job Feldbrugge
 Monthly Notices of the Royal Astronomical Society, Volume 507, Issue 2, October 2021, Pages 2968–2990
@@ -13,9 +13,6 @@ Monthly Notices of the Royal Astronomical Society, Volume 507, Issue 2, October 
 [Link](https://doi.org/10.1016/j.radmeas.2017.03.008.)
 
 
-##### Improvement of the TLD dose calculation by application of an individual residual dose correction
+ * **Improvement of the TLD dose calculation by application of an individual residual dose correction**
   G. Wilding, H. Stadtmann, W. Sprengel, Radiation Measurements, Volume 106, 2017, Pages 273-277, ISSN 1350-4487
 [Link](https://doi.org/10.1016/j.radmeas.2017.03.039.)
-
- * **Improvement of the TLD dose calculation by application of an individual residual dose correction**
-  Wilding, G., Stadtmann, H., & Sprengel, W. (2017). Improvement of the TLD dose calculation by application of an individual residual dose correction. Radiation Measurements, 106, 273-277.
