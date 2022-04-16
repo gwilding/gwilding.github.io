@@ -18,4 +18,5 @@ Monthly Notices of the Royal Astronomical Society, Volume 507, Issue 2, October 
 [Link](https://doi.org/10.1016/j.radmeas.2017.03.039.)
 
  * **Improvement of the TLD dose calculation by application of an individual residual dose correction**
-Wilding, G., Stadtmann, H., & Sprengel, W. (2017). Improvement of the TLD dose calculation by application of an individual residual dose correction. Radiation Measurements, 106, 273-277.
+
+  Wilding, G., Stadtmann, H., & Sprengel, W. (2017). Improvement of the TLD dose calculation by application of an individual residual dose correction. Radiation Measurements, 106, 273-277.
